@@ -20,9 +20,7 @@ const StateWise = () => {
 
     return (
         <>
-            <div className="container-fluid mt-5
-            
-            ">
+            <div className="container-fluid mt-5">
                 <div className='main-heading'>
                     <h1 className=' text-center mb-4'><span className='fw-bold'> INDIA </span>COVID-19 DASHBOARD</h1>
                 </div>
@@ -60,5 +58,4 @@ const StateWise = () => {
         </>
     )
 }
-
 export default StateWise
